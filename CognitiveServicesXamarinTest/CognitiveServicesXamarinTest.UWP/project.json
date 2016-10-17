@@ -1,0 +1,23 @@
+﻿{
+  "dependencies": {
+    "acr.userdialogs": "6.2.0",
+    "microsoft.azure.mobile.client": "2.1.1",
+    "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
+    "microsoft.projectoxford.vision": "1.0.354",
+    "windowsazure.storage": "7.2.0",
+    "xam.plugins.texttospeech": "2.0.0",
+    "Xamarin.Forms": "2.3.1.114",
+    "xlabs.forms": "2.3.0-pre02"
+  },
+  "frameworks": {
+    "uap10.0": {}
+  },
+  "runtimes": {
+    "win10-arm": {},
+    "win10-arm-aot": {},
+    "win10-x86": {},
+    "win10-x86-aot": {},
+    "win10-x64": {},
+    "win10-x64-aot": {}
+  }
+}

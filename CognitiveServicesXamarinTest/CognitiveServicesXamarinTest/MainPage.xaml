@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CognitiveServicesXamarinTest"
+             x:Class="CognitiveServicesXamarinTest.MainPage">
+
+  <StackLayout Orientation="Vertical" Margin="20,20,20,20">
+    <Button Text="Capturar foto" Clicked="Capturar_OnClicked" FontSize="32"/>
+    <Image x:Name="Imagen"/>
+    <Label x:Name="Resultado"/>
+    <ListView x:Name="ListaTags"/>
+  </StackLayout>
+
+</ContentPage>
