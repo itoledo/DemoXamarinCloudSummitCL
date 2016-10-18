@@ -11,3 +11,5 @@ Principalmente se usa:
 - Text-To-Speech (https://github.com/jamesmontemagno/TextToSpeechPlugin)
 
 Para probar, debes configurar las llaves para Vision API, Translator, Blob Storage y Mobile Services en Constants.cs en el proyecto portable.
+
+Las plataformas probadas son Android e iOS. Para el resto falta cargar algunos plugins y crear el image resizer.
